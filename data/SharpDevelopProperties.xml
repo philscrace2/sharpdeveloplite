@@ -1,0 +1,39 @@
+﻿<SharpDevelopProperties>
+  <Array name="Browser.URLBoxHistory" />
+  <Properties name="CodeCoverage.Options">
+    <CodeCoverageHighlighted value="False" />
+  </Properties>
+  <CoreProperties.UILanguage value="en-US" />
+  <Properties name="DisplayBindingService">
+    <Array name="ExternalProcesses" />
+  </Properties>
+  <FormsDesigner.DesignerOptions.PropertyGridSortAlphabetical value="False" />
+  <Properties name="ICSharpCode.SharpDevelop.Gui.FullscreenOptions">
+    <HideMainMenu value="False" />
+    <HideStatusBar value="True" />
+    <HideToolbars value="True" />
+    <ShowMainMenuOnMouseMove value="True" />
+    <ShowStatusBarOnMouseMove value="True" />
+  </Properties>
+  <ICSharpCode.SharpDevelop.Gui.StatusBarVisible value="True" />
+  <ICSharpCode.SharpDevelop.Gui.ToolBarVisible value="True" />
+  <ICSharpCode.SharpDevelop.Gui.UseProfessionalRenderer value="True" />
+  <ProjectBrowser.ShowAll value="False" />
+  <Properties name="RecentOpen">
+    <Files value="" />
+    <Projects value="" />
+  </Properties>
+  <Properties name="SearchAndReplaceProperties" />
+  <SharpDevelop.LoadDocumentProperties value="True" />
+  <SharpDevelop.LoadPrevProjectOnStartup value="False" />
+  <Properties name="SharpDevelop.UI.OutputWindowOptions">
+    <DefaultFont value="[Font: Name=Consolas, Size=10, Units=3, GdiCharSet=1, GdiVerticalFont=False]" />
+    <WordWrap value="True" />
+  </Properties>
+  <ShowTipsAtStartup value="True" />
+  <Properties name="WorkbenchMemento">
+    <bounds value="10,10,780,560" />
+    <defaultstate value="Maximized" />
+    <windowstate value="Maximized" />
+  </Properties>
+</SharpDevelopProperties>

@@ -1,18 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\source\\SharpDevelopLite\\sourceCode\\sharpdeveloplite\\src\\",
+  "WorkspaceRootPath": "C:\\source\\sharpdeveloplite2\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|c:\\source\\sharpdeveloplite\\sourcecode\\sharpdeveloplite\\src\\demoappstart\\commands\\demoapp.commands\\gui\\workbench\\layouts\\simpleworkbenchlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|c:\\source\\sharpdeveloplite2\\src\\demoappstart\\commands\\demoapp.commands\\commands\\mainmenunewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|solutionrelative:demoappstart\\commands\\demoapp.commands\\commands\\mainmenunewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}|Main\\Core\\Project\\ICSharpCode.Core.csproj|c:\\source\\sharpdeveloplite2\\src\\main\\core\\project\\src\\addintree\\addin\\runtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}|Main\\Core\\Project\\ICSharpCode.Core.csproj|solutionrelative:main\\core\\project\\src\\addintree\\addin\\runtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}|Main\\Core\\Project\\ICSharpCode.Core.csproj|c:\\source\\sharpdeveloplite2\\src\\main\\core\\project\\src\\addintree\\addin\\addin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}|Main\\Core\\Project\\ICSharpCode.Core.csproj|solutionrelative:main\\core\\project\\src\\addintree\\addin\\addin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|c:\\source\\sharpdeveloplite2\\src\\demoappstart\\commands\\demoapp.commands\\gui\\workbenchsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|solutionrelative:demoappstart\\commands\\demoapp.commands\\gui\\workbenchsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|c:\\source\\sharpdeveloplite2\\src\\demoappstart\\commands\\demoapp.commands\\gui\\workbench\\layouts\\simpleworkbenchlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|solutionrelative:demoappstart\\commands\\demoapp.commands\\gui\\workbench\\layouts\\simpleworkbenchlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2748AD25-9C63-4E12-877B-4DCE96FBED54}|Main\\Base\\Project\\ICSharpCode.SharpDevelop.csproj|c:\\source\\sharpdeveloplite\\sourcecode\\sharpdeveloplite\\src\\main\\base\\project\\src\\gui\\workbench\\layouts\\simpleworkbenchlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2748AD25-9C63-4E12-877B-4DCE96FBED54}|Main\\Base\\Project\\ICSharpCode.SharpDevelop.csproj|solutionrelative:main\\base\\project\\src\\gui\\workbench\\layouts\\simpleworkbenchlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|c:\\source\\sharpdeveloplite2\\src\\demoappstart\\commands\\demoapp.commands\\gui\\workbench\\defaultworkbench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|solutionrelative:demoappstart\\commands\\demoapp.commands\\gui\\workbench\\defaultworkbench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|c:\\source\\sharpdeveloplite\\sourcecode\\sharpdeveloplite\\src\\demoappstart\\commands\\demoapp.commands\\gui\\iviewcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|solutionrelative:demoappstart\\commands\\demoapp.commands\\gui\\iviewcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}|Main\\Core\\Project\\ICSharpCode.Core.csproj|c:\\source\\sharpdeveloplite2\\data\\schemas\\addin.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68571C55-3AA1-47A7-99AD-16823AFF5380}|DemoAppStart\\sda\\DemoApp.Sda\\DemoApp.Sda.csproj|c:\\source\\sharpdeveloplite2\\src\\demoappstart\\sda\\demoapp.sda\\callhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68571C55-3AA1-47A7-99AD-16823AFF5380}|DemoAppStart\\sda\\DemoApp.Sda\\DemoApp.Sda.csproj|solutionrelative:demoappstart\\sda\\demoapp.sda\\callhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748AD25-9C63-4E12-877B-4DCE96FBED54}|Main\\Base\\Project\\ICSharpCode.SharpDevelop.csproj|c:\\source\\sharpdeveloplite2\\src\\main\\base\\project\\src\\commands\\editcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748AD25-9C63-4E12-877B-4DCE96FBED54}|Main\\Base\\Project\\ICSharpCode.SharpDevelop.csproj|solutionrelative:main\\base\\project\\src\\commands\\editcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857CA1A3-FC88-4BE0-AB6A-D1EE772AB288}|Main\\ICSharpCode.Core.WinForms\\ICSharpCode.Core.WinForms.csproj|c:\\source\\sharpdeveloplite2\\src\\main\\icsharpcode.core.winforms\\menu\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857CA1A3-FC88-4BE0-AB6A-D1EE772AB288}|Main\\ICSharpCode.Core.WinForms\\ICSharpCode.Core.WinForms.csproj|solutionrelative:main\\icsharpcode.core.winforms\\menu\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748AD25-9C63-4E12-877B-4DCE96FBED54}|Main\\Base\\Project\\ICSharpCode.SharpDevelop.csproj|c:\\source\\sharpdeveloplite2\\src\\main\\base\\project\\src\\commands\\filecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748AD25-9C63-4E12-877B-4DCE96FBED54}|Main\\Base\\Project\\ICSharpCode.SharpDevelop.csproj|solutionrelative:main\\base\\project\\src\\commands\\filecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|c:\\source\\sharpdeveloplite2\\src\\demoappstart\\commands\\demoapp.commands\\commands\\autostartcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|solutionrelative:demoappstart\\commands\\demoapp.commands\\commands\\autostartcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3535BA1-B954-42D6-8454-CA958A45958A}|DemoAppStart\\start\\DemoAppStart.csproj|c:\\source\\sharpdeveloplite2\\src\\demoappstart\\start\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3535BA1-B954-42D6-8454-CA958A45958A}|DemoAppStart\\start\\DemoAppStart.csproj|solutionrelative:demoappstart\\start\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748AD25-9C63-4E12-877B-4DCE96FBED54}|Main\\Base\\Project\\ICSharpCode.SharpDevelop.csproj|c:\\source\\sharpdeveloplite2\\src\\main\\base\\project\\src\\gui\\workbenchsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748AD25-9C63-4E12-877B-4DCE96FBED54}|Main\\Base\\Project\\ICSharpCode.SharpDevelop.csproj|solutionrelative:main\\base\\project\\src\\gui\\workbenchsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748AD25-9C63-4E12-877B-4DCE96FBED54}|Main\\Base\\Project\\ICSharpCode.SharpDevelop.csproj|c:\\source\\sharpdeveloplite2\\src\\main\\base\\project\\src\\gui\\workbench\\defaultworkbench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748AD25-9C63-4E12-877B-4DCE96FBED54}|Main\\Base\\Project\\ICSharpCode.SharpDevelop.csproj|solutionrelative:main\\base\\project\\src\\gui\\workbench\\defaultworkbench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|c:\\source\\sharpdeveloplite2\\src\\demoappstart\\commands\\demoapp.commands\\gui\\iworkbench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A418BB1B-6861-4051-9136-4B75DE287464}|DemoAppStart\\commands\\DemoApp.Commands\\DemoApp.csproj|solutionrelative:demoappstart\\commands\\demoapp.commands\\gui\\iworkbench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}|Main\\Core\\Project\\ICSharpCode.Core.csproj|c:\\source\\sharpdeveloplite2\\src\\main\\core\\project\\src\\addintree\\corestartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}|Main\\Core\\Project\\ICSharpCode.Core.csproj|solutionrelative:main\\core\\project\\src\\addintree\\corestartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857CA1A3-FC88-4BE0-AB6A-D1EE772AB288}|Main\\ICSharpCode.Core.WinForms\\ICSharpCode.Core.WinForms.csproj|c:\\source\\sharpdeveloplite2\\src\\main\\icsharpcode.core.winforms\\menu\\menucommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857CA1A3-FC88-4BE0-AB6A-D1EE772AB288}|Main\\ICSharpCode.Core.WinForms\\ICSharpCode.Core.WinForms.csproj|solutionrelative:main\\icsharpcode.core.winforms\\menu\\menucommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857CA1A3-FC88-4BE0-AB6A-D1EE772AB288}|Main\\ICSharpCode.Core.WinForms\\ICSharpCode.Core.WinForms.csproj|c:\\source\\sharpdeveloplite2\\src\\main\\icsharpcode.core.winforms\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857CA1A3-FC88-4BE0-AB6A-D1EE772AB288}|Main\\ICSharpCode.Core.WinForms\\ICSharpCode.Core.WinForms.csproj|solutionrelative:main\\icsharpcode.core.winforms\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}|Main\\Core\\Project\\ICSharpCode.Core.csproj|c:\\source\\sharpdeveloplite2\\src\\main\\core\\project\\src\\services\\resourceservice\\resourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CEF10F-2D4C-45F2-9DD1-161E0FEC583C}|Main\\Core\\Project\\ICSharpCode.Core.csproj|solutionrelative:main\\core\\project\\src\\services\\resourceservice\\resourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748AD25-9C63-4E12-877B-4DCE96FBED54}|Main\\Base\\Project\\ICSharpCode.SharpDevelop.csproj|c:\\source\\sharpdeveloplite2\\src\\main\\base\\project\\src\\gui\\workbench\\defaultworkbench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2748AD25-9C63-4E12-877B-4DCE96FBED54}|Main\\Base\\Project\\ICSharpCode.SharpDevelop.csproj|solutionrelative:main\\base\\project\\src\\gui\\workbench\\defaultworkbench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +93,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 23,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IViewContent.cs",
-              "DocumentMoniker": "C:\\source\\SharpDevelopLite\\sourceCode\\sharpdeveloplite\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Gui\\IViewContent.cs",
-              "RelativeDocumentMoniker": "DemoAppStart\\commands\\DemoApp.Commands\\Gui\\IViewContent.cs",
-              "ToolTip": "C:\\source\\SharpDevelopLite\\sourceCode\\sharpdeveloplite\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Gui\\IViewContent.cs",
-              "RelativeToolTip": "DemoAppStart\\commands\\DemoApp.Commands\\Gui\\IViewContent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T13:04:37.148Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -116,27 +174,272 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SimpleWorkbenchLayout.cs",
-              "DocumentMoniker": "C:\\source\\SharpDevelopLite\\sourceCode\\sharpdeveloplite\\src\\Main\\Base\\Project\\Src\\Gui\\Workbench\\Layouts\\SimpleWorkbenchLayout.cs",
-              "RelativeDocumentMoniker": "Main\\Base\\Project\\Src\\Gui\\Workbench\\Layouts\\SimpleWorkbenchLayout.cs",
-              "ToolTip": "C:\\source\\SharpDevelopLite\\sourceCode\\sharpdeveloplite\\src\\Main\\Base\\Project\\Src\\Gui\\Workbench\\Layouts\\SimpleWorkbenchLayout.cs",
-              "RelativeToolTip": "Main\\Base\\Project\\Src\\Gui\\Workbench\\Layouts\\SimpleWorkbenchLayout.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAwwAgAAAAhAAAA",
+              "Title": "Runtime.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\Main\\Core\\Project\\Src\\AddInTree\\AddIn\\Runtime.cs",
+              "RelativeDocumentMoniker": "Main\\Core\\Project\\Src\\AddInTree\\AddIn\\Runtime.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\Main\\Core\\Project\\Src\\AddInTree\\AddIn\\Runtime.cs",
+              "RelativeToolTip": "Main\\Core\\Project\\Src\\AddInTree\\AddIn\\Runtime.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAswLwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T13:03:50.898Z",
+              "WhenOpened": "2024-10-09T16:37:44.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddIn.xsd [Design]",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\data\\schemas\\AddIn.xsd",
+              "RelativeDocumentMoniker": "..\\data\\schemas\\AddIn.xsd",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\data\\schemas\\AddIn.xsd [Design]",
+              "RelativeToolTip": "..\\data\\schemas\\AddIn.xsd [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-09T16:33:12.747Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddIn.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\Main\\Core\\Project\\Src\\AddInTree\\AddIn\\AddIn.cs",
+              "RelativeDocumentMoniker": "Main\\Core\\Project\\Src\\AddInTree\\AddIn\\AddIn.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\Main\\Core\\Project\\Src\\AddInTree\\AddIn\\AddIn.cs",
+              "RelativeToolTip": "Main\\Core\\Project\\Src\\AddInTree\\AddIn\\AddIn.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAmwHMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:25:51.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CallHelper.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\sda\\DemoApp.Sda\\CallHelper.cs",
+              "RelativeDocumentMoniker": "DemoAppStart\\sda\\DemoApp.Sda\\CallHelper.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\sda\\DemoApp.Sda\\CallHelper.cs",
+              "RelativeToolTip": "DemoAppStart\\sda\\DemoApp.Sda\\CallHelper.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAwG8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:24:13.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SimpleWorkbenchLayout.cs",
-              "DocumentMoniker": "C:\\source\\SharpDevelopLite\\sourceCode\\sharpdeveloplite\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Gui\\Workbench\\Layouts\\SimpleWorkbenchLayout.cs",
-              "RelativeDocumentMoniker": "DemoAppStart\\commands\\DemoApp.Commands\\Gui\\Workbench\\Layouts\\SimpleWorkbenchLayout.cs",
-              "ToolTip": "C:\\source\\SharpDevelopLite\\sourceCode\\sharpdeveloplite\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Gui\\Workbench\\Layouts\\SimpleWorkbenchLayout.cs",
-              "RelativeToolTip": "DemoAppStart\\commands\\DemoApp.Commands\\Gui\\Workbench\\Layouts\\SimpleWorkbenchLayout.cs",
-              "ViewState": "AQIAABQCAAAAAAAAAAAQwCECAAAVAAAA",
+              "Title": "MainMenuNewCommand.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Commands\\MainMenuNewCommand.cs",
+              "RelativeDocumentMoniker": "DemoAppStart\\commands\\DemoApp.Commands\\Commands\\MainMenuNewCommand.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Commands\\MainMenuNewCommand.cs",
+              "RelativeToolTip": "DemoAppStart\\commands\\DemoApp.Commands\\Commands\\MainMenuNewCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T13:03:31.803Z",
+              "WhenOpened": "2024-10-09T16:22:16.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutostartCommands.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Commands\\AutostartCommands.cs",
+              "RelativeDocumentMoniker": "DemoAppStart\\commands\\DemoApp.Commands\\Commands\\AutostartCommands.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Commands\\AutostartCommands.cs",
+              "RelativeToolTip": "DemoAppStart\\commands\\DemoApp.Commands\\Commands\\AutostartCommands.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:21:03.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\start\\Program.cs",
+              "RelativeDocumentMoniker": "DemoAppStart\\start\\Program.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\start\\Program.cs",
+              "RelativeToolTip": "DemoAppStart\\start\\Program.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAwwI0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:17:40.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\Main\\ICSharpCode.Core.WinForms\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Main\\ICSharpCode.Core.WinForms\\Menu\\Menu.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\Main\\ICSharpCode.Core.WinForms\\Menu\\Menu.cs",
+              "RelativeToolTip": "Main\\ICSharpCode.Core.WinForms\\Menu\\Menu.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:47:48.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileCommands.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\Main\\Base\\Project\\Src\\Commands\\FileCommands.cs",
+              "RelativeDocumentMoniker": "Main\\Base\\Project\\Src\\Commands\\FileCommands.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\Main\\Base\\Project\\Src\\Commands\\FileCommands.cs",
+              "RelativeToolTip": "Main\\Base\\Project\\Src\\Commands\\FileCommands.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:09:47.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditCommands.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\Main\\Base\\Project\\Src\\Commands\\EditCommands.cs",
+              "RelativeDocumentMoniker": "Main\\Base\\Project\\Src\\Commands\\EditCommands.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\Main\\Base\\Project\\Src\\Commands\\EditCommands.cs",
+              "RelativeToolTip": "Main\\Base\\Project\\Src\\Commands\\EditCommands.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwBQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:03:20.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuCommand.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\Main\\ICSharpCode.Core.WinForms\\Menu\\MenuCommand.cs",
+              "RelativeDocumentMoniker": "Main\\ICSharpCode.Core.WinForms\\Menu\\MenuCommand.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\Main\\ICSharpCode.Core.WinForms\\Menu\\MenuCommand.cs",
+              "RelativeToolTip": "Main\\ICSharpCode.Core.WinForms\\Menu\\MenuCommand.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAQwIwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:04:00.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoreStartup.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\Main\\Core\\Project\\Src\\AddInTree\\CoreStartup.cs",
+              "RelativeDocumentMoniker": "Main\\Core\\Project\\Src\\AddInTree\\CoreStartup.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\Main\\Core\\Project\\Src\\AddInTree\\CoreStartup.cs",
+              "RelativeToolTip": "Main\\Core\\Project\\Src\\AddInTree\\CoreStartup.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAMwLQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:01:02.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\Main\\ICSharpCode.Core.WinForms\\Menu\\MenuService.cs",
+              "RelativeDocumentMoniker": "Main\\ICSharpCode.Core.WinForms\\Menu\\MenuService.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\Main\\ICSharpCode.Core.WinForms\\Menu\\MenuService.cs",
+              "RelativeToolTip": "Main\\ICSharpCode.Core.WinForms\\Menu\\MenuService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:01:02.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResourceService.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\Main\\Core\\Project\\Src\\Services\\ResourceService\\ResourceService.cs",
+              "RelativeDocumentMoniker": "Main\\Core\\Project\\Src\\Services\\ResourceService\\ResourceService.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\Main\\Core\\Project\\Src\\Services\\ResourceService\\ResourceService.cs",
+              "RelativeToolTip": "Main\\Core\\Project\\Src\\Services\\ResourceService\\ResourceService.cs",
+              "ViewState": "AQIAAOEAAAAAAAAAAAD4v/MAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:01:02.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WorkbenchSingleton.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\Main\\Base\\Project\\Src\\Gui\\WorkbenchSingleton.cs",
+              "RelativeDocumentMoniker": "Main\\Base\\Project\\Src\\Gui\\WorkbenchSingleton.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\Main\\Base\\Project\\Src\\Gui\\WorkbenchSingleton.cs",
+              "RelativeToolTip": "Main\\Base\\Project\\Src\\Gui\\WorkbenchSingleton.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAswHcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:00:07.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DefaultWorkbench.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\Main\\Base\\Project\\Src\\Gui\\Workbench\\DefaultWorkbench.cs",
+              "RelativeDocumentMoniker": "Main\\Base\\Project\\Src\\Gui\\Workbench\\DefaultWorkbench.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\Main\\Base\\Project\\Src\\Gui\\Workbench\\DefaultWorkbench.cs",
+              "RelativeToolTip": "Main\\Base\\Project\\Src\\Gui\\Workbench\\DefaultWorkbench.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAlwFoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:58:14.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DefaultWorkbench.cs [Design]",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\Main\\Base\\Project\\Src\\Gui\\Workbench\\DefaultWorkbench.cs",
+              "RelativeDocumentMoniker": "Main\\Base\\Project\\Src\\Gui\\Workbench\\DefaultWorkbench.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\Main\\Base\\Project\\Src\\Gui\\Workbench\\DefaultWorkbench.cs [Design]",
+              "RelativeToolTip": "Main\\Base\\Project\\Src\\Gui\\Workbench\\DefaultWorkbench.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:58:10.667Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefaultWorkbench.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Gui\\Workbench\\DefaultWorkbench.cs",
+              "RelativeDocumentMoniker": "DemoAppStart\\commands\\DemoApp.Commands\\Gui\\Workbench\\DefaultWorkbench.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Gui\\Workbench\\DefaultWorkbench.cs",
+              "RelativeToolTip": "DemoAppStart\\commands\\DemoApp.Commands\\Gui\\Workbench\\DefaultWorkbench.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAuwK0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:57:03.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleWorkbenchLayout.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Gui\\Workbench\\Layouts\\SimpleWorkbenchLayout.cs",
+              "RelativeDocumentMoniker": "DemoAppStart\\commands\\DemoApp.Commands\\Gui\\Workbench\\Layouts\\SimpleWorkbenchLayout.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Gui\\Workbench\\Layouts\\SimpleWorkbenchLayout.cs",
+              "RelativeToolTip": "DemoAppStart\\commands\\DemoApp.Commands\\Gui\\Workbench\\Layouts\\SimpleWorkbenchLayout.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowDwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:56:08.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IWorkbench.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Gui\\IWorkbench.cs",
+              "RelativeDocumentMoniker": "DemoAppStart\\commands\\DemoApp.Commands\\Gui\\IWorkbench.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Gui\\IWorkbench.cs",
+              "RelativeToolTip": "DemoAppStart\\commands\\DemoApp.Commands\\Gui\\IWorkbench.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwHQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:55:59.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkbenchSingleton.cs",
+              "DocumentMoniker": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Gui\\WorkbenchSingleton.cs",
+              "RelativeDocumentMoniker": "DemoAppStart\\commands\\DemoApp.Commands\\Gui\\WorkbenchSingleton.cs",
+              "ToolTip": "C:\\source\\sharpdeveloplite2\\src\\DemoAppStart\\commands\\DemoApp.Commands\\Gui\\WorkbenchSingleton.cs",
+              "RelativeToolTip": "DemoAppStart\\commands\\DemoApp.Commands\\Gui\\WorkbenchSingleton.cs",
+              "ViewState": "AQIAAEkBAAAAAAAAAAAuwFkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:33:49.646Z",
               "EditorCaption": ""
             }
           ]
